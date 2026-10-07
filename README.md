@@ -10,7 +10,7 @@ We put together an end-to-end, educational Qiskit implementation showing both si
 
 Explore the code & quantum circuits on GitHub! 👇
 🔗 [https://github.com/bkornpob/miniShor-RSAattack-demo](https://github.com/bkornpob/miniShor-RSAattack-demo)
-🎧 [https://github.com/bkornpob/miniShor-RSAattack-demo/How_Quantum_Computers_Actually_Break_RSA.m4a](https://github.com/bkornpob/miniShor-RSAattack-demo/How_Quantum_Computers_Actually_Break_RSA.m4a)
+🎧 [https://github.com/bkornpob/miniShor-RSAattack-demo/blob/main/How_Quantum_Computers_Actually_Break_RSA.m4a](https://github.com/bkornpob/miniShor-RSAattack-demo/blob/main/How_Quantum_Computers_Actually_Break_RSA.m4a)
 
 ---
 
