@@ -9,7 +9,8 @@ We put together an end-to-end, educational Qiskit implementation showing both si
 🔓 Using Quantum Phase Estimation (QPE) to factor $N$, find $d$, and decrypt ciphertext
 
 Explore the code & quantum circuits on GitHub! 👇
-🔗 [github](https://github.com/bkornpob/miniShor-RSAattack-demo)
+🔗 [https://github.com/bkornpob/miniShor-RSAattack-demo](https://github.com/bkornpob/miniShor-RSAattack-demo)
+🎧 [https://github.com/bkornpob/miniShor-RSAattack-demo/How_Quantum_Computers_Actually_Break_RSA.m4a](https://github.com/bkornpob/miniShor-RSAattack-demo/How_Quantum_Computers_Actually_Break_RSA.m4a)
 
 ---
 
