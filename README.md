@@ -1,6 +1,5 @@
 # ⚛️ miniShor-RSAattack-demo
 
-"""
 #QuantumComputing #Qiskit #CyberSecurity #InfoSec #Shor #RSA
 
 Ever wondered how Shor's Algorithm breaks RSA in practice?
@@ -11,8 +10,12 @@ We put together an end-to-end, educational Qiskit implementation showing both si
 
 Explore the code & quantum circuits on GitHub! 👇
 🔗 [github](https://github.com/bkornpob/miniShor-RSAattack-demo)
-"""
 
+---
+
+![miniShor-RSAattack-demo Cover](cover-img-watermarked_img_11738033855731759377.jpg)
+
+---
 
 A hands-on, educational implementation of **Mini-RSA Encryption/Decryption** and **Shor's Factoring Attack** using quantum circuits in Qiskit and Python 3.
 
