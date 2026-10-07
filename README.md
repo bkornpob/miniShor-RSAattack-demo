@@ -1,5 +1,19 @@
 # ⚛️ miniShor-RSAattack-demo
 
+"""
+#QuantumComputing #Qiskit #CyberSecurity #InfoSec #Shor #RSA
+
+Ever wondered how Shor's Algorithm breaks RSA in practice?
+We put together an end-to-end, educational Qiskit implementation showing both sides of the coin:
+
+🔒 Building quantum modular exponentiation for RSA encryption/decryption
+🔓 Using Quantum Phase Estimation (QPE) to factor $N$, find $d$, and decrypt ciphertext
+
+Explore the code & quantum circuits on GitHub! 👇
+🔗 [github](https://github.com/bkornpob/miniShor-RSAattack-demo)
+"""
+
+
 A hands-on, educational implementation of **Mini-RSA Encryption/Decryption** and **Shor's Factoring Attack** using quantum circuits in Qiskit and Python 3.
 
 > **Scope:** a teaching demo at toy scale (`N = 15, 21, 33`). It shows the *mechanism* of the attack, not a scalable one. See [Limitations](#-limitations).
